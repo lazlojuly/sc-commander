@@ -1,4 +1,4 @@
-SocketCluster Sample App
-======
+# Commander
 
-This is a sample SocketCluster app.
+* Created from SocketCluster sample app
+* Responsible for orchestrating all other apps
